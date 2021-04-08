@@ -17,7 +17,8 @@ theme:
 nav:
   - Início: index.md
   - Google:
-    - Sala de aula: google/sala-de-aula.md
+    - Sala de aula:
+      - Acesso: google/sala-de-aula.md
       - Tópicos: google/sala-de-aula/topicos.md
     - Meet:
       - Compartilhar tela: google/meet/compartilhar-tela.md
@@ -29,3 +30,25 @@ nav:
   # - Documento : google/documento.md
   # - Planilha: google/planilha.md
 
+# plugins:
+#   - awesome-pages
+#   - git-revision-date-localized
+#   - search
+
+markdown_extensions:
+  - admonition
+  - def_list
+  - pymdownx.arithmatex
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tabbed
+  - pymdownx.tilde
