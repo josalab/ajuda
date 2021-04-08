@@ -1,0 +1,27 @@
+site_name: Portal de Ajuda do Josafá
+
+# Repository
+repo_url: https://d.com/josalab/portal-josafa
+edit_uri: "edit/main/docs"
+
+# Copyright
+copyright: Copyright &copy; 2019 - 2021 Josafá Sisino Machado
+
+# Configuration
+theme:
+  favicon: imagens/favicon.ico
+  logo: imagens/favicon.ico
+  name: material
+  language: pt
+
+nav:
+  - Início: index.md
+  - Google:
+    - Sala de aula: google/sala-de-aula.md
+    - Meet:
+      - Compartilhar tela: google/meet/compartilhar-tela.md
+    - Formulário:
+      - Imprimir: google/formulario/imprimir.md
+  # - Documento : google/documento.md
+  # - Planilha: google/planilha.md
+
