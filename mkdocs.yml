@@ -18,6 +18,7 @@ nav:
   - Início: index.md
   - Google:
     - Sala de aula: google/sala-de-aula.md
+      - Tópicos: google/sala-de-aula/topicos.md
     - Meet:
       - Compartilhar tela: google/meet/compartilhar-tela.md
     - Formulário:
