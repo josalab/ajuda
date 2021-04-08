@@ -22,6 +22,9 @@ nav:
       - Compartilhar tela: google/meet/compartilhar-tela.md
     - Formulário:
       - Imprimir: google/formulario/imprimir.md
+  - Microsoft:
+    - Zoom it: microsoft/zoom-it.md
+  
   # - Documento : google/documento.md
   # - Planilha: google/planilha.md
 
