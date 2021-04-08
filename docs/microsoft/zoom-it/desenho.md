@@ -2,24 +2,26 @@
 
 Atalhos e mouse:
 
-- Botão esquerdo do mouse: Alterna para o modo de desenho.
-- <kbd>Ctrl</kbd> + <kdb>Z</kbd>: Apaga o último desenho.
-- <kbd>E</kdb>: Limpa todos os desenhos.
-- <kbd>Barra de espaço</kbd>: Centraliza o cursor.
-- <kbd>Ctrl</kbd> + <kbd>Roda do mouse</kdb>: 
-- <kbd>&uarr;</kbd> ou <kbd>&darr;</kbd>: Altera a largura da caneta.
-- <kdb>Ctrl</kbd> + <kbd>C</kbd>: Cópia da tela ampliada.
-- <kbd>W</kbd>: Preenchimento da tela com cor branca (*White*).
-- <kbd>B</kbd>: Preenchimento da tela com cor preta (*Black*).
+| Comando | Ação |
+| --- | --- |
+| Botão esquerdo do mouse | Alterna para o modo de desenho. |
+| <kbd>Ctrl</kbd> + <kbd>Z</kbd> | Apaga o último desenho. |
+| <kbd>E</kdb> | Limpa todos os desenhos. |
+| <kbd>Barra de espaço</kbd> | Centraliza o cursor. |
+| <kbd>Ctrl</kbd> + <kbd>Roda do mouse</kdb> | Altera a largura da caneta. |
+| <kbd>&uarr;</kbd> ou <kbd>&darr;</kbd> | Altera a largura da caneta. |
+| <kbd>Ctrl</kbd> + <kbd>C</kbd> | Cópia da tela ampliada. |
+| <kbd>W</kbd> | Preenchimento da tela com cor branca (*White*). |
+| <kbd>B</kbd> | Preenchimento da tela com cor preta (*Black*). |
 
 Cores:
 
-- <kbd>R</kbd>: *Red* (Pincel de cor vermelha)
-- <kbd>G</kbd>: *Green* (Pincel de cor verde)
-- <kbd>B</kbd>: *Blue* (Pincel de cor azul)
-- <kbd>O</kbd>: *Orange* (Pincel de cor laranja)
-- <kbd>Y</kbd>: *Yellow* (Pincel de cor amarela)
-- <kbd>P</kbd>: *Pink* (Pincel de cor rosa)
+- <kbd>R</kbd>: <span style="color: red;">*Red*</span> (Pincel de cor vermelha)
+- <kbd>G</kbd>: <span style="color: green;">*Green*</span> (Pincel de cor verde)
+- <kbd>B</kbd>: <span style="color: blue;">*Blue*</span> (Pincel de cor azul)
+- <kbd>O</kbd>: <span style="color: orange;">*Orange*</span> (Pincel de cor laranja)
+- <kbd>Y</kbd>: <span style="color: yellow;">*Yellow*</span> (Pincel de cor amarela)
+- <kbd>P</kbd>: <span style="color: pink;">*Pink*</span> (Pincel de cor rosa)
   
 Desenhos geométricos:
 

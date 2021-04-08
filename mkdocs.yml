@@ -25,7 +25,15 @@ nav:
     - Formulário:
       - Imprimir: google/formulario/imprimir.md
   - Microsoft:
-    - Zoom it: microsoft/zoom-it.md
+    - Zoom it: 
+      - Apresentação: microsoft/zoom-it/apresentacao.md
+      - Instalação: microsoft/zoom-it/instalacao.md
+      - Ampliação:
+        - Congelada: microsoft/zoom-it/ampliacao/congelada.md
+        - Interativa: microsoft/zoom-it/ampliacao/interativa.md
+      - Desenho: microsoft/zoom-it/desenho.md
+  - Padlet:
+    - Introdução: padlet/introducao.md
   
   # - Documento : google/documento.md
   # - Planilha: google/planilha.md
