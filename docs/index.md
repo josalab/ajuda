@@ -1,3 +1,3 @@
-# Ajuda do Portal do Josafá
+# Helpdesk para Josafá Machado
 
-Site de ajuda do [Portal da E.M. Josafá Sisino Machado](https://josalab.github.io/).
+Informações e suporte aos usuários de celular, computador ou tablet da [E.M. Josafá Sisino Machado](https://josalab.github.io/).
