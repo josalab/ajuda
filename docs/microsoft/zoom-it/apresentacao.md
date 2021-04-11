@@ -1,6 +1,6 @@
 # Apresentação -- ZoomIt
 
-O Microsoft ZoomIt nos permite ampliar e congelar a tela, e posteriormente desenhar e rabiscar sobre ela. Veja o vídeo abaixo para ter uma visão geral dela e leia as próximas páginas para aprender a instalá-la e a usá-la.
+> O Zoomit é uma ferramenta de zoom e anotação de tela para apresentações técnicas que incluem demonstrações de aplicação. O Zoomit é executado discretamente e é ativado com teclas de atalho personalizáveis para ampliar uma área da tela, mova-se ao ampliar e desenhe na imagem ampliada.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7XYa9q-nXBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -8,4 +8,5 @@ O Microsoft ZoomIt nos permite ampliar e congelar a tela, e posteriormente desen
 - [Instalação](instalacao.md)
 - [Ampliação congelada](ampliacao/congelada.md)
 - [Desenho](desenho.md)
+- [Atalhos](atalhos.md)
 - [Ampliação interativa](ampliacao/interativa.md)

@@ -30,3 +30,6 @@ Desenhos geométricos:
 - <kbd>&#8633;</kbd>: Desenha uma elípse.
 - <kbd>Ctrl</kbd>+<kbd>&uArr;</kbd>: Desenha uma flecha.
 
+## Veja também
+
+- [Atalhos](atalhos.md)
