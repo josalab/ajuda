@@ -30,11 +30,11 @@ O ZoomIn oferece uma quantidade enorme de teclas de atalhos que podem estender m
 | Copiar captura de tela para a área de transferência                 | Ctrl + C                                            |
 | Salvar captura de tela como png                                     | Ctrl + S                                            |
 | Mostrar temporizador de contagem regressiva                         | Ctrl + 3                                            |
-| Aumentar/diminuir o tempo                                         | Ctrl + Roda do Mouse para Frente/Trás ou Arrow Keys |
+| Aumentar/diminuir o tempo                                           | Ctrl + Roda do Mouse para Frente/Trás ou setas      |
 | Minimizar temporizador (sem pausar)                                 | Alt + Tab                                           |
 | Mostrar temporizador quando minimizado                              | Clique com botão esquerdo no ícone do ZoomIt        |
 | Modo de zoom ao vivo                                                | Ctrl + 4                                            |
-| Saída                                                               | Esc ou Right-Click                                  |
+| Saída                                                               | Esc ou Clique com botão direito do mouse            |
 
 
 Fonte: <https://github.com/MicrosoftDocs/sysinternals/blob/live/sysinternals/downloads/zoomit.md>

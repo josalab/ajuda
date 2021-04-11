@@ -17,5 +17,5 @@ Feito isso, experimente:
 
 - [Ampliação congelada](ampliacao/congelada.md)
 - [Desenho](desenho.md)
-- [Atalhos](atalhos.md)
+- [Teclas de atalho](atalhos.md)
 - [Ampliação interativa](ampliacao/interativa.md)

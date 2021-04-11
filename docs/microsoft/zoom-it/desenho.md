@@ -32,4 +32,4 @@ Desenhos geométricos:
 
 ## Veja também
 
-- [Atalhos](atalhos.md)
+- [Teclas de atalho](atalhos.md)

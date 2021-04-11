@@ -7,7 +7,7 @@ Ampliar e congelar  deixará a tela em um tamanho maior e permitirá que você d
 
 - <kbd>Ctrl</kbd>+<kbd>1</kbd>
 
-Feito isso, experimente [desenhar na tela](../desenho.md).
+Feito isso, leia sobre [as teclas de atalho](../atalhos.md) experimente [desenhar na tela](../desenho.md).
 
-Para deixar a ampliação congelada, pressione a tecla <kbd>Esc</kbd>.
+Para deixar a ampliação congelada, pressione a tecla <kbd>Esc</kbd> ou clique com o botão direito do mouse.
 
